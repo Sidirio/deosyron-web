@@ -33,11 +33,11 @@ export default function DeosyronLanding() {
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(59,130,246,0.18),transparent_30%),radial-gradient(circle_at_bottom_left,rgba(6,182,212,0.16),transparent_28%)]" />
         <div className="absolute inset-0 opacity-20 [background-image:linear-gradient(rgba(255,255,255,0.06)_1px,transparent_1px),linear-gradient(90deg,rgba(255,255,255,0.06)_1px,transparent_1px)] [background-size:40px_40px]" />
 
-        <img
+        {/*<img
           src="/logo.png"
           alt="Logo DeoSyron"
           className="absolute right-2 top-1 z-20 w-28 h-auto md:right-4 md:top-2 md:w-[300px] drop-shadow-[0_0_15px_rgba(0,150,255,0.5)]"
-          />
+          />*/}
 
        <div className="relative mx-auto max-w-7xl px-6 pt-12 pb-16 md:px-10 md:pt-16 md:pb-20">
           <div className="grid items-start gap-14 lg:grid-cols-2">
