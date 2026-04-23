@@ -194,6 +194,7 @@ export default function DeosyronLanding() {
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(59,130,246,0.18),transparent_30%),radial-gradient(circle_at_bottom_left,rgba(6,182,212,0.16),transparent_28%)]" />
         <div className="absolute inset-0 opacity-20 [background-image:linear-gradient(rgba(255,255,255,0.06)_1px,transparent_1px),linear-gradient(90deg,rgba(255,255,255,0.06)_1px,transparent_1px)] [background-size:40px_40px]" />
 
+        {/* Aquí irá el logo de la empresa cuando lo tenga listo */}
         {/*<img
           src="/logo.png"
           alt="Logo DeoSyron"
@@ -204,7 +205,7 @@ export default function DeosyronLanding() {
           <div className="grid items-start gap-14 lg:grid-cols-2">
             <div>
               <div className="mb-6 inline-flex items-center rounded-full border border-cyan-400/30 bg-cyan-400/10 px-4 py-1 text-sm tracking-[0.2em] text-cyan-300 uppercase">
-                DEOSYRON
+                DEOSYRON SL
               </div>
 
               <h1 className="max-w-3xl text-4xl font-semibold leading-tight tracking-tight md:text-6xl">
